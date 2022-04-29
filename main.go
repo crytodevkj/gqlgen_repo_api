@@ -3,6 +3,4 @@
 package main
 
 func main() {
-	GetNamesFromApi("2")
-	GetSumFromApi("2")
 }

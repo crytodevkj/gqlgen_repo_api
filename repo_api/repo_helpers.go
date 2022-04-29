@@ -1,7 +1,7 @@
 /// [date] 2022-04-28
 /// [ref] https://stackoverflow.com/questions/49448302/convert-interface-to-struct
 
-package main
+package repo_api
 
 import (
 	"fmt"

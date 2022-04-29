@@ -1,7 +1,7 @@
 /// [date] 2022-04-28
 /// [ref] https://www.thepolyglotdeveloper.com/2020/02/interacting-with-a-graphql-api-with-golang/
 
-package main
+package repo_api
 
 import (
 	"context"

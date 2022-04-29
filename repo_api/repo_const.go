@@ -1,4 +1,4 @@
-package main
+package repo_api
 
 var Url string = "https://gitlab.com/api/graphql"
 var Req string = `
