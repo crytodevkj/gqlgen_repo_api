@@ -1,4 +1,4 @@
-module github.com/haulerkonj/gitlab_graphql
+module github.com/haulerkonj/gqlgen_repo_api
 
 go 1.18
 
